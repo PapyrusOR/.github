@@ -13,7 +13,7 @@
 ![AI-Assisted](https://img.shields.io/badge/Dev-AI--Assisted-blueviolet?style=flat-square)
 
 **🌐 Languages / 语言 / 言語:**
-[English](README.md) | [简体中文](README_ZH.md) | [日本語](README_JP.md)
+[English](./README.md) | [简体中文](./README_ZH.md) | [日本語](./README_JP.md)
 
 </div>
 
